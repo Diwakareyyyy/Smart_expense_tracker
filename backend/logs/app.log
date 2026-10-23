@@ -1,0 +1,283 @@
+2026-08-10 15:13:33,487 - expense_tracker - INFO - Chat tokens - prompt=780 completion=14 total=794
+2026-08-10 15:19:32,514 - expense_tracker - INFO - Chat tokens - prompt=780 completion=14 total=794
+2026-08-10 15:19:40,757 - expense_tracker - INFO - OCR parse tokens - prompt=720 completion=31 total=751
+2026-08-10 15:22:40,195 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 15:22:48,870 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 15:22:48,960 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 15:22:48,964 - expense_tracker - INFO - Application starting up...
+2026-08-10 15:24:23,983 - expense_tracker - INFO - Chat tokens - prompt=1745 completion=62 total=1807
+2026-08-10 15:25:09,026 - expense_tracker - INFO - Chat tokens - prompt=1743 completion=14 total=1757
+2026-08-10 15:25:35,422 - expense_tracker - INFO - Chat tokens - prompt=1744 completion=32 total=1776
+2026-08-10 15:26:01,511 - expense_tracker - INFO - Chat tokens - prompt=1745 completion=99 total=1844
+2026-08-10 15:26:16,697 - expense_tracker - INFO - Chat tokens - prompt=1744 completion=14 total=1758
+2026-08-10 15:28:18,596 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 15:28:27,259 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 15:28:27,348 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 15:28:27,353 - expense_tracker - INFO - Application starting up...
+2026-08-10 15:30:29,710 - expense_tracker - INFO - OCR parse tokens - prompt=838 completion=31 total=869
+2026-08-10 15:31:15,831 - expense_tracker - INFO - OCR parse tokens - prompt=941 completion=40 total=981
+2026-08-10 15:32:07,396 - expense_tracker - INFO - OCR parse tokens - prompt=1000 completion=39 total=1039
+2026-08-10 15:44:08,736 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 15:44:17,006 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 15:44:17,086 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 15:44:17,091 - expense_tracker - INFO - Application starting up...
+2026-08-10 15:46:04,144 - expense_tracker - INFO - Chat tokens - prompt=1869 completion=47 total=1916
+2026-08-10 15:46:25,045 - expense_tracker - INFO - Chat tokens - prompt=1867 completion=14 total=1881
+2026-08-10 15:46:55,362 - expense_tracker - INFO - Chat tokens - prompt=1869 completion=19 total=1888
+2026-08-10 15:47:04,364 - expense_tracker - INFO - Chat tokens - prompt=1867 completion=14 total=1881
+2026-08-10 15:47:23,318 - expense_tracker - INFO - Chat tokens - prompt=1867 completion=40 total=1907
+2026-08-10 15:47:44,460 - expense_tracker - INFO - Chat tokens - prompt=1869 completion=86 total=1955
+2026-08-10 15:48:00,449 - expense_tracker - INFO - Chat tokens - prompt=1872 completion=64 total=1936
+2026-08-10 15:48:15,376 - expense_tracker - INFO - OCR parse tokens - prompt=838 completion=31 total=869
+2026-08-10 15:48:39,507 - expense_tracker - INFO - OCR parse tokens - prompt=838 completion=31 total=869
+2026-08-10 15:48:53,947 - expense_tracker - INFO - OCR parse tokens - prompt=1478 completion=35 total=1513
+2026-08-10 15:49:10,747 - expense_tracker - INFO - OCR parse tokens - prompt=1478 completion=35 total=1513
+2026-08-10 15:49:24,485 - expense_tracker - INFO - OCR parse tokens - prompt=965 completion=34 total=999
+2026-08-10 15:50:24,693 - expense_tracker - INFO - OCR parse tokens - prompt=1316 completion=34 total=1350
+2026-08-10 15:50:44,453 - expense_tracker - INFO - OCR parse tokens - prompt=833 completion=26 total=859
+2026-08-10 16:06:16,200 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:06:25,371 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:06:25,439 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:06:25,443 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:07:49,997 - expense_tracker - INFO - Chat tokens - prompt=1867 completion=14 total=1881
+2026-08-10 16:08:02,716 - expense_tracker - INFO - Chat tokens - prompt=1867 completion=14 total=1881
+2026-08-10 16:08:09,072 - expense_tracker - INFO - Chat tokens - prompt=1869 completion=33 total=1902
+2026-08-10 16:08:20,928 - expense_tracker - INFO - Chat tokens - prompt=1868 completion=113 total=1981
+2026-08-10 16:08:42,019 - expense_tracker - INFO - Chat tokens - prompt=1874 completion=113 total=1987
+2026-08-10 16:16:40,729 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:16:40,803 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:16:40,805 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:18:14,008 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:18:14,077 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:18:14,079 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:18:29,249 - expense_tracker - INFO - Chat tokens - prompt=492 completion=14 total=506
+2026-08-10 16:18:29,702 - expense_tracker - INFO - Chat tokens - prompt=961 completion=17 total=978
+2026-08-10 16:18:36,592 - expense_tracker - INFO - Chat tokens - prompt=974 completion=47 total=1021
+2026-08-10 16:19:28,860 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:19:35,772 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:19:35,834 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:19:35,837 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:20:34,050 - expense_tracker - INFO - Chat tokens - prompt=1581 completion=14 total=1595
+2026-08-10 16:20:52,366 - expense_tracker - INFO - Chat tokens - prompt=1579 completion=14 total=1593
+2026-08-10 16:21:02,778 - expense_tracker - INFO - Chat tokens - prompt=1579 completion=17 total=1596
+2026-08-10 16:21:07,476 - expense_tracker - INFO - Chat tokens - prompt=1579 completion=42 total=1621
+2026-08-10 16:21:29,312 - expense_tracker - INFO - Chat tokens - prompt=1579 completion=94 total=1673
+2026-08-10 16:21:41,003 - expense_tracker - INFO - Chat tokens - prompt=1581 completion=484 total=2065
+2026-08-10 16:21:49,939 - expense_tracker - INFO - Chat tokens - prompt=1579 completion=17 total=1596
+2026-08-10 16:21:57,132 - expense_tracker - INFO - Chat tokens - prompt=1579 completion=48 total=1627
+2026-08-10 16:22:07,144 - expense_tracker - INFO - Chat tokens - prompt=1580 completion=18 total=1598
+2026-08-10 16:22:35,095 - expense_tracker - INFO - Chat tokens - prompt=1580 completion=11 total=1591
+2026-08-10 16:22:56,744 - expense_tracker - INFO - Chat tokens - prompt=1583 completion=468 total=2051
+2026-08-10 16:23:13,403 - expense_tracker - INFO - Chat tokens - prompt=1580 completion=14 total=1594
+2026-08-10 16:23:20,229 - expense_tracker - INFO - Chat tokens - prompt=1579 completion=15 total=1594
+2026-08-10 16:25:39,580 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:25:39,642 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:25:39,644 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:25:42,897 - expense_tracker - INFO - Chat tokens - prompt=1021 completion=19 total=1040
+2026-08-10 16:27:28,754 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:27:43,837 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:27:43,916 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:27:43,918 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:29:28,967 - expense_tracker - INFO - Chat tokens - prompt=660 completion=31 total=691
+2026-08-10 16:30:01,960 - expense_tracker - INFO - Chat tokens - prompt=659 completion=14 total=673
+2026-08-10 16:30:05,717 - expense_tracker - INFO - Chat tokens - prompt=658 completion=14 total=672
+2026-08-10 16:30:09,884 - expense_tracker - INFO - Chat tokens - prompt=658 completion=17 total=675
+2026-08-10 16:30:24,435 - expense_tracker - INFO - Chat tokens - prompt=662 completion=15 total=677
+2026-08-10 16:30:31,376 - expense_tracker - INFO - Chat tokens - prompt=660 completion=500 total=1160
+2026-08-10 16:30:50,512 - expense_tracker - INFO - Chat tokens - prompt=660 completion=259 total=919
+2026-08-10 16:31:25,014 - expense_tracker - ERROR - Groq API error on attempt 1: Request timed out.
+2026-08-10 16:31:28,781 - expense_tracker - INFO - Chat tokens - prompt=660 completion=339 total=999
+2026-08-10 16:31:56,034 - expense_tracker - INFO - Chat tokens - prompt=662 completion=52 total=714
+2026-08-10 16:38:07,712 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:38:07,774 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:38:07,777 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:38:12,461 - expense_tracker - INFO - Chat tokens - prompt=864 completion=108 total=972
+2026-08-10 16:40:51,543 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:41:06,349 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:41:06,438 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:41:06,440 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:42:45,291 - expense_tracker - INFO - Chat tokens - prompt=885 completion=34 total=919
+2026-08-10 16:43:00,375 - expense_tracker - INFO - Chat tokens - prompt=883 completion=14 total=897
+2026-08-10 16:43:10,209 - expense_tracker - INFO - Chat tokens - prompt=884 completion=14 total=898
+2026-08-10 16:43:18,648 - expense_tracker - INFO - Chat tokens - prompt=883 completion=30 total=913
+2026-08-10 16:43:28,787 - expense_tracker - INFO - Chat tokens - prompt=885 completion=142 total=1027
+2026-08-10 16:43:39,404 - expense_tracker - INFO - Chat tokens - prompt=883 completion=15 total=898
+2026-08-10 16:43:57,906 - expense_tracker - INFO - Chat tokens - prompt=889 completion=51 total=940
+2026-08-10 16:44:05,402 - expense_tracker - INFO - Chat tokens - prompt=885 completion=91 total=976
+2026-08-10 16:44:21,266 - expense_tracker - INFO - Chat tokens - prompt=883 completion=75 total=958
+2026-08-10 16:44:29,633 - expense_tracker - INFO - Chat tokens - prompt=885 completion=26 total=911
+2026-08-10 16:44:37,063 - expense_tracker - INFO - Chat tokens - prompt=885 completion=16 total=901
+2026-08-10 16:44:45,412 - expense_tracker - INFO - Chat tokens - prompt=883 completion=14 total=897
+2026-08-10 16:44:47,850 - expense_tracker - INFO - Chat tokens - prompt=883 completion=16 total=899
+2026-08-10 16:44:58,701 - expense_tracker - INFO - Chat tokens - prompt=885 completion=14 total=899
+2026-08-10 16:48:06,537 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:48:06,606 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:48:06,608 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:49:13,358 - expense_tracker - INFO - OCR parse tokens - prompt=1961 completion=30 total=1991
+2026-08-10 16:49:54,168 - expense_tracker - INFO - OCR parse tokens - prompt=547 completion=34 total=581
+2026-08-10 16:50:39,562 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:50:39,699 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:50:39,705 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:50:59,700 - expense_tracker - INFO - OCR parse tokens - prompt=1940 completion=39 total=1979
+2026-08-10 16:51:56,081 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:51:56,191 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:51:56,194 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:52:16,671 - expense_tracker - INFO - OCR parse tokens - prompt=1378 completion=44 total=1422
+2026-08-10 16:55:06,987 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:55:41,349 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:55:41,539 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 16:55:41,545 - expense_tracker - INFO - Application starting up...
+2026-08-10 16:58:46,955 - expense_tracker - INFO - Chat tokens - prompt=885 completion=42 total=927
+2026-08-10 16:58:55,279 - expense_tracker - INFO - Chat tokens - prompt=884 completion=14 total=898
+2026-08-10 16:59:00,546 - expense_tracker - INFO - Chat tokens - prompt=883 completion=14 total=897
+2026-08-10 16:59:04,024 - expense_tracker - INFO - Chat tokens - prompt=885 completion=20 total=905
+2026-08-10 16:59:09,584 - expense_tracker - INFO - Chat tokens - prompt=883 completion=14 total=897
+2026-08-10 16:59:16,325 - expense_tracker - INFO - Chat tokens - prompt=887 completion=51 total=938
+2026-08-10 16:59:23,664 - expense_tracker - INFO - Chat tokens - prompt=887 completion=20 total=907
+2026-08-10 16:59:35,054 - expense_tracker - INFO - Chat tokens - prompt=887 completion=125 total=1012
+2026-08-10 16:59:44,591 - expense_tracker - INFO - Chat tokens - prompt=884 completion=97 total=981
+2026-08-10 17:00:13,162 - expense_tracker - INFO - Chat tokens - prompt=892 completion=129 total=1021
+2026-08-10 17:00:29,494 - expense_tracker - INFO - Chat tokens - prompt=886 completion=20 total=906
+2026-08-10 17:05:10,512 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:05:10,653 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:05:10,657 - expense_tracker - INFO - Application starting up...
+2026-08-10 17:05:17,318 - expense_tracker - INFO - OCR parse tokens - prompt=1600 completion=37 total=1637
+2026-08-10 17:05:51,449 - expense_tracker - INFO - Chat tokens - prompt=839 completion=119 total=958
+2026-08-10 17:24:09,720 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:24:34,667 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:24:34,805 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:24:34,810 - expense_tracker - INFO - Application starting up...
+2026-08-10 17:27:36,160 - expense_tracker - INFO - Chat tokens - prompt=888 completion=43 total=931
+2026-08-10 17:27:42,297 - expense_tracker - INFO - Chat tokens - prompt=888 completion=94 total=982
+2026-08-10 17:27:58,962 - expense_tracker - INFO - Chat tokens - prompt=890 completion=27 total=917
+2026-08-10 17:28:14,431 - expense_tracker - INFO - Chat tokens - prompt=889 completion=39 total=928
+2026-08-10 17:28:30,593 - expense_tracker - INFO - Chat tokens - prompt=892 completion=182 total=1074
+2026-08-10 17:28:47,719 - expense_tracker - INFO - Chat tokens - prompt=895 completion=75 total=970
+2026-08-10 17:29:24,542 - expense_tracker - INFO - Chat tokens - prompt=899 completion=206 total=1105
+2026-08-10 17:30:59,301 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:31:14,843 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:31:14,986 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:31:14,991 - expense_tracker - INFO - Application starting up...
+2026-08-10 17:34:26,254 - expense_tracker - INFO - Chat tokens - prompt=886 completion=14 total=900
+2026-08-10 17:42:57,838 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:42:58,015 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:42:58,021 - expense_tracker - INFO - Application starting up...
+2026-08-10 17:43:12,309 - expense_tracker - INFO - OCR parse tokens - prompt=590 completion=29 total=619
+2026-08-10 17:43:13,149 - expense_tracker - INFO - OCR parse tokens - prompt=596 completion=29 total=625
+2026-08-10 17:43:13,950 - expense_tracker - INFO - OCR parse tokens - prompt=593 completion=29 total=622
+2026-08-10 17:45:17,293 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:46:04,956 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:46:05,265 - expense_tracker - INFO - Database tables are ready.
+2026-08-10 17:46:05,272 - expense_tracker - INFO - Application starting up...
+2026-08-10 17:49:41,899 - expense_tracker - INFO - OCR parse tokens - prompt=710 completion=31 total=741
+2026-08-10 17:50:15,807 - expense_tracker - INFO - OCR parse tokens - prompt=1350 completion=35 total=1385
+2026-08-10 17:50:25,769 - expense_tracker - INFO - OCR parse tokens - prompt=710 completion=31 total=741
+2026-08-10 17:50:54,342 - expense_tracker - INFO - OCR parse tokens - prompt=1350 completion=35 total=1385
+2026-08-11 13:11:45,290 - expense_tracker - INFO - Database tables are ready.
+2026-08-11 13:12:04,002 - expense_tracker - INFO - Database tables are ready.
+2026-08-11 13:12:04,073 - expense_tracker - INFO - Database tables are ready.
+2026-08-11 13:12:04,075 - expense_tracker - INFO - Application starting up...
+2026-08-11 13:18:48,541 - expense_tracker - INFO - Chat tokens - prompt=897 completion=39 total=936
+2026-08-11 13:18:52,971 - expense_tracker - INFO - Chat tokens - prompt=895 completion=14 total=909
+2026-08-11 13:18:57,998 - expense_tracker - INFO - Chat tokens - prompt=896 completion=14 total=910
+2026-08-11 13:19:04,105 - expense_tracker - INFO - Chat tokens - prompt=895 completion=15 total=910
+2026-08-11 13:20:46,552 - expense_tracker - INFO - OCR parse tokens - prompt=710 completion=31 total=741
+2026-08-11 13:21:00,252 - expense_tracker - INFO - OCR parse tokens - prompt=1350 completion=35 total=1385
+2026-08-11 16:38:17,301 - expense_tracker - INFO - Database tables are ready.
+2026-08-11 16:38:32,218 - expense_tracker - INFO - Database tables are ready.
+2026-08-11 16:38:32,388 - expense_tracker - INFO - Database tables are ready.
+2026-08-11 16:38:32,394 - expense_tracker - INFO - Application starting up...
+2026-08-11 17:07:01,215 - expense_tracker - INFO - Database tables are ready.
+2026-08-11 17:07:09,355 - expense_tracker - INFO - Database tables are ready.
+2026-08-11 17:07:09,411 - expense_tracker - INFO - Database tables are ready.
+2026-08-11 17:07:09,413 - expense_tracker - INFO - Application starting up...
+2026-08-12 11:47:37,311 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 11:47:46,102 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 11:47:46,183 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 11:47:46,186 - expense_tracker - INFO - Application starting up...
+2026-08-12 11:50:19,481 - expense_tracker - INFO - Chat tokens - prompt=760 completion=6 total=766
+2026-08-12 11:51:12,012 - expense_tracker - INFO - Successfully sent OTP email to sam@gmail.com
+2026-08-12 11:52:23,516 - expense_tracker - INFO - Chat tokens - prompt=897 completion=39 total=936
+2026-08-12 11:52:25,968 - expense_tracker - INFO - Chat tokens - prompt=897 completion=31 total=928
+2026-08-12 12:00:57,301 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 12:01:05,590 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 12:01:05,653 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 12:01:05,656 - expense_tracker - INFO - Application starting up...
+2026-08-12 12:15:19,248 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 12:15:30,560 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 12:15:30,644 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 12:15:30,646 - expense_tracker - INFO - Application starting up...
+2026-08-12 15:04:46,576 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 15:05:06,625 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 15:05:06,733 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 15:05:06,737 - expense_tracker - INFO - Application starting up...
+2026-08-12 15:35:52,470 - expense_tracker - INFO - Chat tokens - prompt=897 completion=39 total=936
+2026-08-12 15:36:19,880 - expense_tracker - INFO - Chat tokens - prompt=899 completion=14 total=913
+2026-08-12 16:17:42,055 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 16:18:00,924 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 16:18:01,088 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 16:18:01,091 - expense_tracker - INFO - Application starting up...
+2026-08-12 16:29:41,877 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 16:29:51,477 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 16:29:51,554 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 16:29:51,557 - expense_tracker - INFO - Application starting up...
+2026-08-12 16:42:58,964 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 16:43:18,567 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 16:43:18,693 - expense_tracker - INFO - Database tables are ready.
+2026-08-12 16:43:18,698 - expense_tracker - INFO - Application starting up...
+2026-08-13 10:25:08,323 - expense_tracker - INFO - Database tables are ready.
+2026-08-13 10:25:32,867 - expense_tracker - INFO - Database tables are ready.
+2026-08-13 10:25:33,007 - expense_tracker - INFO - Database tables are ready.
+2026-08-13 10:25:33,012 - expense_tracker - INFO - Application starting up...
+2026-08-13 10:29:58,540 - expense_tracker - INFO - OCR parse tokens - prompt=710 completion=31 total=741
+2026-08-13 10:30:07,153 - expense_tracker - INFO - Chat tokens - prompt=897 completion=39 total=936
+2026-08-13 10:30:16,354 - expense_tracker - INFO - OCR parse tokens - prompt=1350 completion=35 total=1385
+2026-08-13 12:01:46,133 - expense_tracker - INFO - Database tables are ready.
+2026-08-13 12:02:02,600 - expense_tracker - INFO - Database tables are ready.
+2026-08-13 12:02:02,681 - expense_tracker - INFO - Database tables are ready.
+2026-08-13 12:02:02,684 - expense_tracker - INFO - Application starting up...
+2026-08-13 12:08:39,344 - expense_tracker - INFO - Chat tokens - prompt=888 completion=39 total=927
+2026-08-14 11:15:53,871 - expense_tracker - INFO - Database tables are ready.
+2026-08-14 11:16:17,858 - expense_tracker - INFO - Database tables are ready.
+2026-08-14 11:16:18,005 - expense_tracker - INFO - Database tables are ready.
+2026-08-14 11:16:18,011 - expense_tracker - INFO - Application starting up...
+2026-08-14 11:24:42,776 - expense_tracker - INFO - Chat tokens - prompt=886 completion=14 total=900
+2026-08-14 11:24:42,779 - expense_tracker - INFO - Chat tokens - prompt=886 completion=14 total=900
+2026-08-14 11:24:42,860 - expense_tracker - INFO - Chat tokens - prompt=888 completion=39 total=927
+2026-08-14 11:24:53,126 - expense_tracker - INFO - Chat tokens - prompt=888 completion=43 total=931
+2026-08-14 15:38:11,321 - expense_tracker - INFO - Database tables are ready.
+2026-08-14 15:38:39,329 - expense_tracker - INFO - Database tables are ready.
+2026-08-14 15:38:39,478 - expense_tracker - INFO - Database tables are ready.
+2026-08-14 15:38:39,483 - expense_tracker - INFO - Application starting up...
+2026-08-14 15:44:44,812 - expense_tracker - INFO - OCR parse tokens - prompt=710 completion=31 total=741
+2026-08-14 15:44:53,451 - expense_tracker - INFO - OCR parse tokens - prompt=1350 completion=35 total=1385
+2026-08-14 15:45:03,119 - expense_tracker - INFO - Chat tokens - prompt=888 completion=51 total=939
+2026-08-14 15:45:10,788 - expense_tracker - INFO - Chat tokens - prompt=886 completion=65 total=951
+2026-08-14 15:45:17,213 - expense_tracker - INFO - Chat tokens - prompt=886 completion=43 total=929
+2026-08-14 15:45:21,580 - expense_tracker - INFO - Chat tokens - prompt=887 completion=18 total=905
+2026-08-14 15:45:29,034 - expense_tracker - INFO - Chat tokens - prompt=886 completion=14 total=900
+2026-08-14 15:45:36,418 - expense_tracker - INFO - Chat tokens - prompt=888 completion=500 total=1388
+2026-08-14 15:45:53,336 - expense_tracker - INFO - Chat tokens - prompt=890 completion=9 total=899
+2026-08-14 15:46:02,074 - expense_tracker - INFO - Chat tokens - prompt=889 completion=97 total=986
+2026-08-14 15:46:12,860 - expense_tracker - INFO - Chat tokens - prompt=890 completion=14 total=904
+2026-08-14 15:46:21,300 - expense_tracker - INFO - Chat tokens - prompt=890 completion=16 total=906
+2026-08-14 15:46:31,275 - expense_tracker - INFO - Chat tokens - prompt=888 completion=186 total=1074
+2026-08-14 15:46:43,132 - expense_tracker - INFO - Chat tokens - prompt=888 completion=13 total=901
+2026-08-14 15:46:49,780 - expense_tracker - INFO - Chat tokens - prompt=886 completion=25 total=911
+2026-08-14 15:46:57,224 - expense_tracker - INFO - Chat tokens - prompt=890 completion=83 total=973
+2026-08-14 16:18:51,591 - expense_tracker - INFO - Chat tokens - prompt=888 completion=51 total=939
+2026-08-14 16:18:57,863 - expense_tracker - INFO - Chat tokens - prompt=888 completion=147 total=1035
+2026-08-14 16:19:16,992 - expense_tracker - INFO - Chat tokens - prompt=888 completion=21 total=909
+2026-08-14 16:19:20,799 - expense_tracker - INFO - Chat tokens - prompt=886 completion=14 total=900
+2026-08-14 16:19:32,285 - expense_tracker - INFO - Chat tokens - prompt=891 completion=14 total=905
+2026-08-14 16:19:49,346 - expense_tracker - INFO - Chat tokens - prompt=894 completion=81 total=975
+2026-08-14 16:20:06,916 - expense_tracker - INFO - Chat tokens - prompt=889 completion=85 total=974
+2026-08-14 16:20:27,042 - expense_tracker - INFO - Chat tokens - prompt=886 completion=53 total=939
+2026-08-14 16:20:33,535 - expense_tracker - INFO - Chat tokens - prompt=888 completion=30 total=918
+2026-08-14 16:20:43,898 - expense_tracker - INFO - Chat tokens - prompt=888 completion=191 total=1079
+2026-08-14 16:21:00,415 - expense_tracker - INFO - Chat tokens - prompt=890 completion=500 total=1390
+2026-08-14 16:32:07,140 - expense_tracker - INFO - Database tables are ready.
+2026-08-14 16:32:27,936 - expense_tracker - INFO - Database tables are ready.
+2026-08-14 16:32:28,068 - expense_tracker - INFO - Database tables are ready.
+2026-08-14 16:32:28,072 - expense_tracker - INFO - Application starting up...
+2026-08-14 16:34:54,226 - expense_tracker - INFO - Successfully sent OTP email to sdiwakar2005s@gmail.com

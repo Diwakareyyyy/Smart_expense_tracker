@@ -1,0 +1,2 @@
+# Ignore backend environment file with secrets
+.env
